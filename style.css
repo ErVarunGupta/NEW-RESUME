@@ -77,7 +77,7 @@ li{
 /* Left part */
 
 #left{
-    width: 30rem;
+    width: 35rem;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -133,7 +133,7 @@ li{
 #right{
     /* background-color: aqua; */
     padding:2rem 2rem;
-    width: 60rem;
+    width: 80rem;
     border: .5rem solid black;
     border-top-right-radius: 1rem;
     border-bottom-right-radius: 1rem;
